@@ -540,7 +540,7 @@ html,
             justify-content: center;
         }
         
-        .icons li a svg {
+        .icons li a img {
             display: block;
             position: relative;
             -moz-transition: fill 0.25s ease;
@@ -549,7 +549,7 @@ html,
             transition: fill 0.25s ease;
         }
         
-        .icons li a + svg {
+        .icons li a + img {
             display: block;
             position: absolute;
             top: 0;
@@ -587,12 +587,12 @@ html,
             height: 2em;
         }
         
-        #icons01 li a svg {
+        #icons01 li a img {
             width: 60%;
             height: 60%;
         }
         
-        #icons01 a svg {
+        #icons01 a img {
             fill: #8797A1;
         }
         
@@ -604,7 +604,7 @@ html,
             border-color: #8ED5ED !important;
         }
         
-        #icons01 a:hover svg {
+        #icons01 a:hover img {
             fill: #8ED5ED !important;
         }
         
